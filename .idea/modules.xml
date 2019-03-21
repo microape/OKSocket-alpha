@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OkSocketAlpha.iml" filepath="$PROJECT_DIR$/OkSocketAlpha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blesocket/blesocket.iml" filepath="$PROJECT_DIR$/blesocket/blesocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/btsocket/btsocket.iml" filepath="$PROJECT_DIR$/btsocket/btsocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-client/socket-client.iml" filepath="$PROJECT_DIR$/socket-client/socket-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-common-interface/socket-common-interface.iml" filepath="$PROJECT_DIR$/socket-common-interface/socket-common-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-core/socket-core.iml" filepath="$PROJECT_DIR$/socket-core/socket-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/socket-server/socket-server.iml" filepath="$PROJECT_DIR$/socket-server/socket-server.iml" />
+    </modules>
+  </component>
+</project>
